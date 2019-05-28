@@ -34,3 +34,11 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+*.meta
+525/Assets/Script/SceneFadeInOut.cs~origin_master
+*.cs~HEAD
+525/Assets/Script/Model.cs.meta~origin_master
+*.cs~origin_master
+*.meta~origin_master
+525/Assets/Script/Ctrl.cs.meta~HEAD
+*.meta~HEAD
