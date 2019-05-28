@@ -18,7 +18,7 @@ public class Enemy : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-        rb.transform.Translate(new Vector2(0, 0.1f));
+        rb.transform.Translate(new Vector2(-0.1f, 0f));
         //if (gameObject.transform.position.y < player.transform.position.y - 10)  //掉落得足够远的时候 消失
         //{ gameObject.SetActive(false);  }
 	}

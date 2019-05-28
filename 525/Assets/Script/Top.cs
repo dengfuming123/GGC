@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Top : MonoBehaviour
 {
-    public Collider2D top;// 房顶
+    private Collider2D top;// 房顶
     // Use this for initialization
     void Start()
     {
